@@ -1,5 +1,2 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhav06&label=Profile%20views&color=0e75b6&style=flat" alt="bhav06" /> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhav06&theme=dark&show_icons=true&locale=en" alt="bhav06" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhav06&theme=dark&show_icons=true&locale=en&layout=compact" alt="bhav06" /></p>
+<img src="https://komarev.com/ghpvc/?username=bhav06&style=flat-square" alt="bhav06" /><br>
+<img src="https://github-readme-stats.vercel.app/api?username=bhav06&show_icons=true&count_private=true&title_color=ff5555&icon_color=88c0d0&bg_color=151515&text_color=d8dee9" alt="bhav06" />
